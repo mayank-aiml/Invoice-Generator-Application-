@@ -22,7 +22,10 @@ PyInstaller (For creating a standalone .exe file)
 4️⃣ The invoice is automatically saved with customer details and the current date.
 
 📂 Installation & Usage
-Download the .exe file from the Releases section (if available).
+Download the .exe file here https://drive.google.com/drive/folders/12nY_UEvFQ57kLPyvqkrMEQZ297KhopZ3?usp=sharing .
 Place invoice_template.docx in the same directory as the app.
 Run the application and start generating invoices instantly!
 💡 For developers: Clone the repository and run
+
+
+Awaited feedback 
